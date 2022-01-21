@@ -7,3 +7,15 @@ body{
     margin-left: 10%;
     margin-right: 10%;
 }
+.initial-section img{
+    width: 100px;
+}
+.panda-bg-color{
+    background-color:  #fceae8;
+}
+.btn-primary{
+    background-image: linear-gradient(#f72d77,#ED5E93);
+    border: 0;
+    outline: 0;
+    font-weight: 600;
+}
